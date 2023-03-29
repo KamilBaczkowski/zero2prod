@@ -1,0 +1,13 @@
+{
+    "application": {
+        "port": 8000
+    },
+    "log_level": "info",
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "username": "postgres",
+        "password": "password",
+        "database_name": "newsletter"
+    }
+}
